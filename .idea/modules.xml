@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/covid/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/covid/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/covid/src/main/demoproject.iml" filepath="$PROJECT_DIR$/covid/src/main/demoproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/covid/src/main/main.iml" filepath="$PROJECT_DIR$/covid/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/covid/src/test/test.iml" filepath="$PROJECT_DIR$/covid/src/test/test.iml" />
     </modules>

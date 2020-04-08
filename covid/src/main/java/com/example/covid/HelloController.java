@@ -23,10 +23,10 @@ public class HelloController {
         return "next";
     }
 
-    @RequestMapping(value = "/test", method = RequestMethod.GET)
+    @RequestMapping(value = "/test")
     public ModelAndView exception2()
     {
-        ModelAndView modelAndview = new ModelAndView("index.jsp");
+        ModelAndView modelAndview = new ModelAndView("index");
 
         return modelAndview;
     }
